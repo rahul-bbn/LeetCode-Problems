@@ -15,4 +15,8 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
         }
     }
     return result=NULL;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3a12b13235e62db151d7ffefc36abc2501b6336c
